@@ -1,0 +1,19 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+img {
+	width: 200px;
+	height: auto;
+}
+#main {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+}
+.box {
+	position: absolute;
+	border: 1px solid gray;
+	padding: 10px 0 0 10px;
+	float: left;
+}
