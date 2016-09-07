@@ -12,7 +12,6 @@ img {
 	margin-right: auto;
 }
 .box {
-	position: absolute;
 	border: 1px solid gray;
 	padding: 10px 0 0 10px;
 	float: left;
